@@ -1,0 +1,12 @@
+C:\Users\YiXiao\Desktop\classworkcheck\team04-c-sharp-week08-pair-exercises\capstone\TenmoClient\bin\Debug\netcoreapp2.2\TenmoClient.deps.json
+C:\Users\YiXiao\Desktop\classworkcheck\team04-c-sharp-week08-pair-exercises\capstone\TenmoClient\bin\Debug\netcoreapp2.2\TenmoClient.runtimeconfig.json
+C:\Users\YiXiao\Desktop\classworkcheck\team04-c-sharp-week08-pair-exercises\capstone\TenmoClient\bin\Debug\netcoreapp2.2\TenmoClient.runtimeconfig.dev.json
+C:\Users\YiXiao\Desktop\classworkcheck\team04-c-sharp-week08-pair-exercises\capstone\TenmoClient\bin\Debug\netcoreapp2.2\TenmoClient.dll
+C:\Users\YiXiao\Desktop\classworkcheck\team04-c-sharp-week08-pair-exercises\capstone\TenmoClient\bin\Debug\netcoreapp2.2\TenmoClient.pdb
+C:\Users\YiXiao\Desktop\classworkcheck\team04-c-sharp-week08-pair-exercises\capstone\TenmoClient\obj\Debug\netcoreapp2.2\TenmoClient.csprojAssemblyReference.cache
+C:\Users\YiXiao\Desktop\classworkcheck\team04-c-sharp-week08-pair-exercises\capstone\TenmoClient\obj\Debug\netcoreapp2.2\TenmoClient.csproj.CoreCompileInputs.cache
+C:\Users\YiXiao\Desktop\classworkcheck\team04-c-sharp-week08-pair-exercises\capstone\TenmoClient\obj\Debug\netcoreapp2.2\TenmoClient.AssemblyInfoInputs.cache
+C:\Users\YiXiao\Desktop\classworkcheck\team04-c-sharp-week08-pair-exercises\capstone\TenmoClient\obj\Debug\netcoreapp2.2\TenmoClient.AssemblyInfo.cs
+C:\Users\YiXiao\Desktop\classworkcheck\team04-c-sharp-week08-pair-exercises\capstone\TenmoClient\obj\Debug\netcoreapp2.2\TenmoClient.dll
+C:\Users\YiXiao\Desktop\classworkcheck\team04-c-sharp-week08-pair-exercises\capstone\TenmoClient\obj\Debug\netcoreapp2.2\TenmoClient.pdb
+C:\Users\YiXiao\Desktop\classworkcheck\team04-c-sharp-week08-pair-exercises\capstone\TenmoClient\obj\Debug\netcoreapp2.2\TenmoClient.genruntimeconfig.cache

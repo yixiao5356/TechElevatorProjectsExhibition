@@ -1,0 +1,1 @@
+excelsior-venues.sql must be executed first to set up the database in order to debug the solution properly.
