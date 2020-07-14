@@ -145,12 +145,12 @@ namespace TenmoClient
                                         break;
                                     }
                                 }
+                                if (transferID == 0)
+                                {
+                                    typeIsGood = true;
+                                    numISGood = true;
+                                }
                             }
-                            //if (transferID != 0)
-                            //{
-                            //    typeIsGood = true;
-                            //    numISGood = true;
-                            //}
                             //Todo
                             if (transferID != 0)
                             {

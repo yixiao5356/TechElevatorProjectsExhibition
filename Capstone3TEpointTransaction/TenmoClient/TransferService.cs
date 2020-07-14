@@ -142,8 +142,8 @@ namespace TenmoClient
             }
             else if (!response.IsSuccessful)
             {
-
-                throw new Exception("An error message was received");
+                
+                throw new Exception("An error message was received" + response.StatusCode);
 
 
             }
