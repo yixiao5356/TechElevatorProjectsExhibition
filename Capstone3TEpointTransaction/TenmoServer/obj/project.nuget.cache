@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QOzcjJGvWzw48hH0AY8ouFbRNABJKza7SvRc85if71yxgLrTlSLAl/QjW89rKBArh69aH2nhIDDICZH9LMc1Zw==",
+  "dgSpecHash": "lUfXMMZHCTRMZSj1BAvzMF8XxHYJ1awbQoZSIvW8pd6lfjrV7wSl3dZO6cUKM5In3Nc5gohY83s1G6h+dz3p+A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\YiXiao\\Desktop\\classworkcheck\\team04-c-sharp-week08-pair-exercises\\capstone\\TenmoServer\\TenmoServer.csproj",
+  "projectFilePath": "C:\\Users\\YiXiao\\Desktop\\classworkcheck\\TechElevatorProjectsExhibition\\Capstone3TEpointTransaction\\TenmoServer\\TenmoServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\YiXiao\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\YiXiao\\.nuget\\packages\\microsoft.aspnetcore\\2.2.0\\microsoft.aspnetcore.2.2.0.nupkg.sha512",

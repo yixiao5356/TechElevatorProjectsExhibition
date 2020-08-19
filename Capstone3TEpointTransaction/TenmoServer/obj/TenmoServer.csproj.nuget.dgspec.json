@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\YiXiao\\Desktop\\classworkcheck\\team04-c-sharp-week08-pair-exercises\\capstone\\TenmoServer\\TenmoServer.csproj": {}
+    "C:\\Users\\YiXiao\\Desktop\\classworkcheck\\TechElevatorProjectsExhibition\\Capstone3TEpointTransaction\\TenmoServer\\TenmoServer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\YiXiao\\Desktop\\classworkcheck\\team04-c-sharp-week08-pair-exercises\\capstone\\TenmoServer\\TenmoServer.csproj": {
+    "C:\\Users\\YiXiao\\Desktop\\classworkcheck\\TechElevatorProjectsExhibition\\Capstone3TEpointTransaction\\TenmoServer\\TenmoServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\YiXiao\\Desktop\\classworkcheck\\team04-c-sharp-week08-pair-exercises\\capstone\\TenmoServer\\TenmoServer.csproj",
+        "projectUniqueName": "C:\\Users\\YiXiao\\Desktop\\classworkcheck\\TechElevatorProjectsExhibition\\Capstone3TEpointTransaction\\TenmoServer\\TenmoServer.csproj",
         "projectName": "TenmoServer",
-        "projectPath": "C:\\Users\\YiXiao\\Desktop\\classworkcheck\\team04-c-sharp-week08-pair-exercises\\capstone\\TenmoServer\\TenmoServer.csproj",
+        "projectPath": "C:\\Users\\YiXiao\\Desktop\\classworkcheck\\TechElevatorProjectsExhibition\\Capstone3TEpointTransaction\\TenmoServer\\TenmoServer.csproj",
         "packagesPath": "C:\\Users\\YiXiao\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\YiXiao\\Desktop\\classworkcheck\\team04-c-sharp-week08-pair-exercises\\capstone\\TenmoServer\\obj\\",
+        "outputPath": "C:\\Users\\YiXiao\\Desktop\\classworkcheck\\TechElevatorProjectsExhibition\\Capstone3TEpointTransaction\\TenmoServer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

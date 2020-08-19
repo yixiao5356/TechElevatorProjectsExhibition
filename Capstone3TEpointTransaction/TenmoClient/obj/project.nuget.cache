@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XFlesxHFj/h0y5HBKAbCTGO0IGemA01/fL9N1PQsuQPpOQMy6BAli7Ci6/mx66aqI/nvqsFeC716jrk+oSrflQ==",
+  "dgSpecHash": "C5GwVIBMIs57mv8nVGXp0Q10IqcRyG2edsh+JiAWFYoZyBTf/YVC3WKbTjDF/Fbxq6IoMPpYCxyQPGfknXLmJQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\YiXiao\\Desktop\\classworkcheck\\team04-c-sharp-week08-pair-exercises\\capstone\\TenmoClient\\TenmoClient.csproj",
+  "projectFilePath": "C:\\Users\\YiXiao\\Desktop\\classworkcheck\\TechElevatorProjectsExhibition\\Capstone3TEpointTransaction\\TenmoClient\\TenmoClient.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\YiXiao\\.nuget\\packages\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
     "C:\\Users\\YiXiao\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",

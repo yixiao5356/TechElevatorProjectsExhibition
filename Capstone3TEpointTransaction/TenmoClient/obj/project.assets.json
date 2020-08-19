@@ -719,11 +719,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\YiXiao\\Desktop\\classworkcheck\\team04-c-sharp-week08-pair-exercises\\capstone\\TenmoClient\\TenmoClient.csproj",
+      "projectUniqueName": "C:\\Users\\YiXiao\\Desktop\\classworkcheck\\TechElevatorProjectsExhibition\\Capstone3TEpointTransaction\\TenmoClient\\TenmoClient.csproj",
       "projectName": "TenmoClient",
-      "projectPath": "C:\\Users\\YiXiao\\Desktop\\classworkcheck\\team04-c-sharp-week08-pair-exercises\\capstone\\TenmoClient\\TenmoClient.csproj",
+      "projectPath": "C:\\Users\\YiXiao\\Desktop\\classworkcheck\\TechElevatorProjectsExhibition\\Capstone3TEpointTransaction\\TenmoClient\\TenmoClient.csproj",
       "packagesPath": "C:\\Users\\YiXiao\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\YiXiao\\Desktop\\classworkcheck\\team04-c-sharp-week08-pair-exercises\\capstone\\TenmoClient\\obj\\",
+      "outputPath": "C:\\Users\\YiXiao\\Desktop\\classworkcheck\\TechElevatorProjectsExhibition\\Capstone3TEpointTransaction\\TenmoClient\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
